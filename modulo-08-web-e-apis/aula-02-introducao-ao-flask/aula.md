@@ -148,5 +148,5 @@ def test_criar_tarefa():
   feliz e os casos de erro (recurso não encontrado, dados inválidos).
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-08-web-e-apis/aula-02-introducao-ao-flask/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Fundamentos de HTTP e REST](../aula-01-fundamentos-http-e-rest/aula.md) · ➡️ [Próxima aula: Introdução ao FastAPI](../aula-03-introducao-ao-fastapi/aula.md)

@@ -157,5 +157,5 @@ cache interno do seu próprio programa).
   exemplo), use `indent=2` e `ensure_ascii=False`.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-05-tratamento-de-erros-e-arquivos/aula-04-serializacao-json-e-pickle/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Manipulação de arquivos texto e CSV](../aula-03-manipulacao-de-arquivos-texto-e-csv/aula.md) · ➡️ [Próximo módulo: Testes e qualidade](../../modulo-06-testes-e-qualidade/README.md)

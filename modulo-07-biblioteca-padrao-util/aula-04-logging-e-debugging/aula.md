@@ -170,5 +170,5 @@ terminal — mas o conceito (pausar e inspecionar) é o mesmo.
   — é mais eficiente que `print` para bugs difíceis de reproduzir.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-07-biblioteca-padrao-util/aula-04-logging-e-debugging/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: os, pathlib e sistema de arquivos](../aula-03-os-pathlib-e-sistema-de-arquivos/aula.md) · ➡️ [Próximo módulo: Web e APIs](../../modulo-08-web-e-apis/README.md)

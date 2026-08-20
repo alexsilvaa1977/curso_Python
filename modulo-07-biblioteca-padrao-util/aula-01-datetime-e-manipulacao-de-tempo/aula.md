@@ -147,5 +147,5 @@ except ValueError as erro:
   `strptime`.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-07-biblioteca-padrao-util/aula-01-datetime-e-manipulacao-de-tempo/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Voltar ao índice do módulo](../README.md) · ➡️ [Próxima aula: collections, itertools e functools](../aula-02-collections-itertools-e-functools/aula.md)

@@ -124,5 +124,5 @@ repositório) — vale a pena abri-lo e ler o que está ignorado e por quê.
   quando "já está pronto".
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-01-fundamentos/aula-05-boas-praticas-pep8-e-git-basico/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Strings e formatação](../aula-04-strings-e-formatacao/aula.md) · ➡️ [Próximo módulo: Estruturas de dados](../../modulo-02-estruturas-de-dados/README.md)

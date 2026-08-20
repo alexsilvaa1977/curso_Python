@@ -38,3 +38,7 @@ dist/
 # Rascunhos pessoais do aluno (opcional, não versionados)
 meus-exercicios/
 scratch/
+
+# Site de documentação (MkDocs) — gerado, não versionado
+/site/
+/.cache/

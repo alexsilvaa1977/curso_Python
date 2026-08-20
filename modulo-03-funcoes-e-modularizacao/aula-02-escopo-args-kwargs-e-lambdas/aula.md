@@ -132,5 +132,5 @@ pessoas_ordenadas = sorted(pessoas, key=lambda p: p["idade"])
   argumento de outra função (`key=`, `sorted`, etc.).
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-03-funcoes-e-modularizacao/aula-02-escopo-args-kwargs-e-lambdas/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Funções, parâmetros e retorno](../aula-01-funcoes-parametros-e-retorno/aula.md) · ➡️ [Próxima aula: Módulos e pacotes](../aula-03-modulos-e-pacotes/aula.md)

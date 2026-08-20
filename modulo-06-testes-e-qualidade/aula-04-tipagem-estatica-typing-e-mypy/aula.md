@@ -153,5 +153,5 @@ começando pelas partes mais críticas.
   novo.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-06-testes-e-qualidade/aula-04-tipagem-estatica-typing-e-mypy/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Cobertura e integração contínua](../aula-03-cobertura-e-integracao-continua/aula.md) · ➡️ [Próximo módulo: Biblioteca padrão útil](../../modulo-07-biblioteca-padrao-util/README.md)

@@ -175,5 +175,5 @@ por você.
   sem precisar de outra ferramenta.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-08-web-e-apis/aula-03-introducao-ao-fastapi/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Introdução ao Flask](../aula-02-introducao-ao-flask/aula.md) · ➡️ [Próxima aula: Persistência com banco de dados: SQLite e ORM](../aula-04-persistencia-com-banco-de-dados-sqlite-orm/aula.md)

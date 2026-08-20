@@ -6,6 +6,10 @@ fundamentos e evoluir para o nível de desenvolvedor backend/geral: estruturas
 de dados, orientação a objetos, tratamento de erros, testes, boas práticas de
 projeto e uma introdução a APIs web.
 
+📖 **Site do curso:** https://alexsilvaa1977.github.io/curso_Python/ — a
+mesma navegação abaixo, só que como um site com busca, modo escuro e os
+notebooks renderizados direto no navegador.
+
 ## Formato das aulas
 
 Cada aula é uma pasta com três arquivos:
@@ -63,3 +67,30 @@ testadas — veja o [módulo 09](modulo-09-projeto-final/README.md).
 4. Ao chegar no módulo 9, leia o código-fonte dos dois projetos, rode os
    testes (`pytest -v` dentro de cada pasta de projeto) e tente os
    exercícios de extensão sugeridos em cada README.
+
+## O site do curso
+
+Todo o conteúdo também está publicado como um site (gerado com
+[MkDocs Material](https://squidfunk.github.io/mkdocs-material/)) em
+**https://alexsilvaa1977.github.io/curso_Python/**, atualizado
+automaticamente a cada mudança na branch `main`. O site oferece:
+
+- Navegação por módulo/aula, busca e modo claro/escuro.
+- Os notebooks (`exemplos.ipynb`) renderizados como páginas, sem precisar
+  instalar Jupyter para só ler o conteúdo.
+- Um botão "abrir no Colab" em cada aula, para rodar os exemplos
+  interativamente no navegador (sem instalar nada) — veja o link logo
+  abaixo de "Exemplos práticos" em cada `aula.md`.
+
+Para gerar o site localmente (opcional — não é necessário para fazer o
+curso):
+
+```bash
+pip install -r requirements-docs.txt
+mkdocs serve   # site em http://127.0.0.1:8000, com live-reload
+```
+
+A estrutura de arquivos usada pelo curso (pastas `modulo-NN-.../`) é a
+mesma usada como fonte do site — a pasta `_docs/` (versionada, mas
+apenas com links simbólicos para o conteúdo real) e o arquivo
+`mkdocs.yml` existem só para configurar essa publicação.

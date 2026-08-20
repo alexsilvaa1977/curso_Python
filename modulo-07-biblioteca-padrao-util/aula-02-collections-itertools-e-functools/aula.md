@@ -189,5 +189,5 @@ print(fibonacci(30))    # rápido com cache; sem @lru_cache, seria muito mais le
   solução geral para "deixar o código mais rápido".
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-07-biblioteca-padrao-util/aula-02-collections-itertools-e-functools/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: datetime e manipulação de tempo](../aula-01-datetime-e-manipulacao-de-tempo/aula.md) · ➡️ [Próxima aula: os, pathlib e sistema de arquivos](../aula-03-os-pathlib-e-sistema-de-arquivos/aula.md)

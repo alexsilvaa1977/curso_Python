@@ -119,5 +119,5 @@ nome, idade, cidade = "Ana", 28, "Recife"
   contador separado.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-02-estruturas-de-dados/aula-01-listas-e-tuplas/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Voltar ao índice do módulo](../README.md) · ➡️ [Próxima aula: Dicionários e sets](../aula-02-dicionarios-e-sets/aula.md)

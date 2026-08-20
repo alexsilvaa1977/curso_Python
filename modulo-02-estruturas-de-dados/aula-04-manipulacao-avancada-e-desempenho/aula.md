@@ -109,5 +109,5 @@ existe?" em uma coleção grande, considere usar `set` (ou as chaves de um
   complexa.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-02-estruturas-de-dados/aula-04-manipulacao-avancada-e-desempenho/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Comprehensions](../aula-03-compreensoes-comprehensions/aula.md) · ➡️ [Próximo módulo: Funções e modularização](../../modulo-03-funcoes-e-modularizacao/README.md)

@@ -108,5 +108,5 @@ for numero in range(10):
   parte da lógica para uma função (aula 3.1 do módulo 3).
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-01-fundamentos/aula-03-estruturas-de-controle/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Variáveis, tipos e operadores](../aula-02-variaveis-tipos-e-operadores/aula.md) · ➡️ [Próxima aula: Strings e formatação](../aula-04-strings-e-formatacao/aula.md)

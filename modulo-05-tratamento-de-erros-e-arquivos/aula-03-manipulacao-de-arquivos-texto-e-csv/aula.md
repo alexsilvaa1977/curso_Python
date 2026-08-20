@@ -142,5 +142,5 @@ with open("produtos.csv", "w", newline="", encoding="utf-8") as arquivo:
   texto, para evitar problemas com acentuação em diferentes sistemas.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-05-tratamento-de-erros-e-arquivos/aula-03-manipulacao-de-arquivos-texto-e-csv/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Exceções customizadas](../aula-02-excecoes-customizadas/aula.md) · ➡️ [Próxima aula: Serialização: JSON e pickle](../aula-04-serializacao-json-e-pickle/aula.md)

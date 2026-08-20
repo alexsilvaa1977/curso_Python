@@ -132,5 +132,5 @@ propensa a hierarquias frágeis conforme o projeto cresce.
   "princípio de substituição").
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-04-poo/aula-05-composicao-vs-heranca/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Métodos especiais (dunder methods)](../aula-04-metodos-especiais-dunder/aula.md) · ➡️ [Próximo módulo: Tratamento de erros e arquivos](../../modulo-05-tratamento-de-erros-e-arquivos/README.md)

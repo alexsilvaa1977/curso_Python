@@ -140,5 +140,5 @@ objeto`).
   necessário (nem recomendado) sobrescrever todos "por completude".
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-04-poo/aula-04-metodos-especiais-dunder/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Encapsulamento e properties](../aula-03-encapsulamento-e-properties/aula.md) · ➡️ [Próxima aula: Composição vs. herança](../aula-05-composicao-vs-heranca/aula.md)

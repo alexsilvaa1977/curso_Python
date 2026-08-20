@@ -145,5 +145,5 @@ os.rename("antigo.txt", "novo.txt")   # renomear (pathlib também tem Path.renam
   quando precisar de controle fino sobre a leitura/escrita.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-07-biblioteca-padrao-util/aula-03-os-pathlib-e-sistema-de-arquivos/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: collections, itertools e functools](../aula-02-collections-itertools-e-functools/aula.md) · ➡️ [Próxima aula: logging e debugging](../aula-04-logging-e-debugging/aula.md)

@@ -124,5 +124,5 @@ print(unicos)   # ordem não é garantida, mas duplicados somem
   seguido de acesso — é mais direto e evita checagem duplicada.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-02-estruturas-de-dados/aula-02-dicionarios-e-sets/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Listas e tuplas](../aula-01-listas-e-tuplas/aula.md) · ➡️ [Próxima aula: Comprehensions](../aula-03-compreensoes-comprehensions/aula.md)

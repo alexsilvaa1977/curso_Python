@@ -153,5 +153,5 @@ except ValueError as erro:
   retornar valores mágicos como `-1` ou `None` para indicar erro.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-05-tratamento-de-erros-e-arquivos/aula-01-excecoes-try-except-finally/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Voltar ao índice do módulo](../README.md) · ➡️ [Próxima aula: Exceções customizadas](../aula-02-excecoes-customizadas/aula.md)

@@ -133,5 +133,5 @@ seu computador é o que roda automaticamente no CI.
   fácil manter do que adicionar depois de meses sem essa disciplina.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-06-testes-e-qualidade/aula-03-cobertura-e-integracao-continua/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Fixtures e mocks](../aula-02-fixtures-e-mocks/aula.md) · ➡️ [Próxima aula: Tipagem estática: typing e mypy](../aula-04-tipagem-estatica-typing-e-mypy/aula.md)

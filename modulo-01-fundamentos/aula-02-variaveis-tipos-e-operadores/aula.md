@@ -130,5 +130,5 @@ print(pode_dirigir)   # True
   "torcendo" para que funcione.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-01-fundamentos/aula-02-variaveis-tipos-e-operadores/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Introdução e ambiente](../aula-01-introducao-e-ambiente/aula.md) · ➡️ [Próxima aula: Estruturas de controle](../aula-03-estruturas-de-controle/aula.md)

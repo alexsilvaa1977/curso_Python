@@ -107,5 +107,5 @@ ler, mas prefira f-strings em código novo):
   `.lower()` dos dois lados: `resposta.lower() == "sim"`.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-01-fundamentos/aula-04-strings-e-formatacao/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Estruturas de controle](../aula-03-estruturas-de-controle/aula.md) · ➡️ [Próxima aula: Boas práticas — PEP 8 e git básico](../aula-05-boas-praticas-pep8-e-git-basico/aula.md)

@@ -180,5 +180,5 @@ compartilhem a mesma conexão/banco em memória.
   quebrar com `AttributeError`.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-08-web-e-apis/aula-04-persistencia-com-banco-de-dados-sqlite-orm/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Introdução ao FastAPI](../aula-03-introducao-ao-fastapi/aula.md) · ➡️ [Próximo módulo: Projeto final](../../modulo-09-projeto-final/README.md)

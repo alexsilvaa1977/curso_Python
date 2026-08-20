@@ -117,5 +117,5 @@ mesmo, no futuro) vão reutilizá-la.
 - Escreva a docstring pensando em alguém que nunca viu o código.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-03-funcoes-e-modularizacao/aula-01-funcoes-parametros-e-retorno/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Voltar ao índice do módulo](../README.md) · ➡️ [Próxima aula: Escopo, args/kwargs e lambdas](../aula-02-escopo-args-kwargs-e-lambdas/aula.md)

@@ -137,5 +137,5 @@ print(pato.nadar(), pato.voar())
   exato do objeto com `if isinstance(...)` repetidamente.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-04-poo/aula-02-heranca-e-polimorfismo/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Classes, objetos e atributos](../aula-01-classes-objetos-e-atributos/aula.md) · ➡️ [Próxima aula: Encapsulamento e properties](../aula-03-encapsulamento-e-properties/aula.md)

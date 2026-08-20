@@ -136,5 +136,5 @@ ferramentas mais antigas.
   vem cada nome usado no código).
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-03-funcoes-e-modularizacao/aula-03-modulos-e-pacotes/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Escopo, args/kwargs e lambdas](../aula-02-escopo-args-kwargs-e-lambdas/aula.md) · ➡️ [Próxima aula: Ambientes virtuais e gerenciamento de dependências](../aula-04-ambientes-virtuais-e-gerenciamento-de-dependencias/aula.md)

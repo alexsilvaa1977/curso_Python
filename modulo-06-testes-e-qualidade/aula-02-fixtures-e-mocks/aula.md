@@ -166,5 +166,5 @@ mais próximo do comportamento real do sistema.
   do usuário) — não para simplificar testes de lógica pura.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-06-testes-e-qualidade/aula-02-fixtures-e-mocks/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Introdução a testes com pytest](../aula-01-introducao-a-testes-pytest/aula.md) · ➡️ [Próxima aula: Cobertura e integração contínua](../aula-03-cobertura-e-integracao-continua/aula.md)

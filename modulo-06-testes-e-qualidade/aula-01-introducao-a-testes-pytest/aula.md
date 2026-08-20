@@ -152,5 +152,5 @@ def test_somar_positivo_com_negativo():
   é corrigir.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-06-testes-e-qualidade/aula-01-introducao-a-testes-pytest/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Voltar ao índice do módulo](../README.md) · ➡️ [Próxima aula: Fixtures e mocks](../aula-02-fixtures-e-mocks/aula.md)

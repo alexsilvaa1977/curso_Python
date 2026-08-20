@@ -102,5 +102,5 @@ final.
   criar o ambiente virtual e rodar `pip install -r requirements.txt`.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-03-funcoes-e-modularizacao/aula-04-ambientes-virtuais-e-gerenciamento-de-dependencias/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Módulos e pacotes](../aula-03-modulos-e-pacotes/aula.md) · ➡️ [Próximo módulo: POO](../../modulo-04-poo/README.md)

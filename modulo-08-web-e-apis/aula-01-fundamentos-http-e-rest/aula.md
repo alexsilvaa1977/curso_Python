@@ -153,5 +153,5 @@ convenções já conhecidas de método HTTP + URL do recurso.
   (`404` quando não encontrar, `201` quando criar, etc.).
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-08-web-e-apis/aula-01-fundamentos-http-e-rest/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Voltar ao índice do módulo](../README.md) · ➡️ [Próxima aula: Introdução ao Flask](../aula-02-introducao-ao-flask/aula.md)

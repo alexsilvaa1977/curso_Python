@@ -130,5 +130,5 @@ print(Pessoa.total_criadas)   # 2
   de cada objeto, sempre atributo de instância.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-04-poo/aula-01-classes-objetos-e-atributos/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Voltar ao índice do módulo](../README.md) · ➡️ [Próxima aula: Herança e polimorfismo](../aula-02-heranca-e-polimorfismo/aula.md)

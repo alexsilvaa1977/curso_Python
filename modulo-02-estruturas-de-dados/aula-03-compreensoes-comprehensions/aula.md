@@ -109,5 +109,5 @@ resultado = [x*2 if x % 2 == 0 else x/2 if x % 3 == 0 else x for x in range(30) 
   agradecer.
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-02-estruturas-de-dados/aula-03-compreensoes-comprehensions/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Aula anterior: Dicionários e sets](../aula-02-dicionarios-e-sets/aula.md) · ➡️ [Próxima aula: Manipulação avançada e desempenho](../aula-04-manipulacao-avancada-e-desempenho/aula.md)

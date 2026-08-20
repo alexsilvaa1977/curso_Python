@@ -110,5 +110,5 @@ de string (`f"..."`).
   instalar algo novo (`pip freeze > requirements.txt`).
 
 ---
-➡️ [Exemplos práticos (notebook)](exemplos.ipynb) · [Exercícios](exercicios.md)
+➡️ [Exemplos práticos (notebook)](exemplos.ipynb) ([abrir no Colab](https://colab.research.google.com/github/alexsilvaa1977/curso_Python/blob/main/modulo-01-fundamentos/aula-01-introducao-e-ambiente/exemplos.ipynb)) · [Exercícios](exercicios.md)
 ⬅️ [Voltar ao índice do módulo](../README.md) · ➡️ [Próxima aula: Variáveis, tipos e operadores](../aula-02-variaveis-tipos-e-operadores/aula.md)
