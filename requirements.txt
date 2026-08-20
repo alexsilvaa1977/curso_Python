@@ -16,3 +16,4 @@ flask
 fastapi
 uvicorn[standard]
 sqlalchemy
+httpx  # necessário para o TestClient do FastAPI (módulos 8 e 9)

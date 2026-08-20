@@ -20,6 +20,11 @@ htmlcov/
 .coverage
 .coverage.*
 
+# Bancos de dados e dados locais gerados pelos exemplos (módulo 8/9)
+*.db
+*.sqlite3
+modulo-09-projeto-final/projeto-cli-financas/financas.json
+
 # Empacotamento
 build/
 dist/

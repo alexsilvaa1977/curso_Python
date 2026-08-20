@@ -45,12 +45,12 @@ Cada aula é uma pasta com três arquivos:
 | [05 — Tratamento de erros e arquivos](modulo-05-tratamento-de-erros-e-arquivos/README.md) | Exceções, arquivos texto/CSV, JSON | ✅ completo |
 | [06 — Testes e qualidade](modulo-06-testes-e-qualidade/README.md) | pytest, fixtures/mocks, cobertura, typing | ✅ completo |
 | [07 — Biblioteca padrão útil](modulo-07-biblioteca-padrao-util/README.md) | datetime, collections/itertools, pathlib, logging | ✅ completo |
-| [08 — Web e APIs](modulo-08-web-e-apis/README.md) | HTTP/REST, Flask, FastAPI, persistência | 🚧 em construção |
-| [09 — Projeto final](modulo-09-projeto-final/README.md) | Projeto prático que amarra todos os conceitos | 🚧 em construção |
+| [08 — Web e APIs](modulo-08-web-e-apis/README.md) | HTTP/REST, Flask, FastAPI, persistência | ✅ completo |
+| [09 — Projeto final](modulo-09-projeto-final/README.md) | Projeto prático que amarra todos os conceitos | ✅ completo |
 
-Os módulos marcados como "em construção" já têm seu índice de aulas
-planejado no respectivo `README.md` e serão preenchidos com conteúdo
-completo nas próximas fases do curso.
+O curso está completo: os 9 módulos têm conteúdo real (não são apenas
+esqueletos), incluindo o projeto final com duas aplicações completas e
+testadas — veja o [módulo 09](modulo-09-projeto-final/README.md).
 
 ## Como estudar
 
@@ -60,3 +60,6 @@ completo nas próximas fases do curso.
    consultar a aula.
 3. Não tem pressa: entender bem os módulos 1 a 3 é o que torna o resto do
    curso (POO, testes, APIs) muito mais fácil.
+4. Ao chegar no módulo 9, leia o código-fonte dos dois projetos, rode os
+   testes (`pytest -v` dentro de cada pasta de projeto) e tente os
+   exercícios de extensão sugeridos em cada README.
