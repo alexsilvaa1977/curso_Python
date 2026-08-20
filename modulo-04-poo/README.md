@@ -1,10 +1,5 @@
 # Módulo 04 — Programação Orientada a Objetos (POO)
 
-🚧 **Em construção** — este módulo ainda não tem o conteúdo completo das
-aulas. Este README descreve os objetivos e o índice planejado; o
-conteúdo real (`aula.md`, `exemplos.ipynb`, `exercicios.md` de cada aula)
-será adicionado em uma fase seguinte do curso.
-
 POO é o salto de "escrever scripts" para "pensar como desenvolvedor":
 organizar dados e comportamento juntos em classes, a base de frameworks
 como Flask, FastAPI e Django, que usaremos no módulo 8.
@@ -17,12 +12,12 @@ como Flask, FastAPI e Django, que usaremos no módulo 8.
 - Usar métodos especiais (`__init__`, `__str__`, `__eq__`, etc.).
 - Entender quando preferir composição a herança.
 
-## Aulas planejadas
+## Aulas
 
-1. Classes, objetos e atributos
-2. Herança e polimorfismo
-3. Encapsulamento e properties
-4. Métodos especiais (dunder methods)
-5. Composição vs. herança
+1. [Classes, objetos e atributos](aula-01-classes-objetos-e-atributos/aula.md)
+2. [Herança e polimorfismo](aula-02-heranca-e-polimorfismo/aula.md)
+3. [Encapsulamento e properties](aula-03-encapsulamento-e-properties/aula.md)
+4. [Métodos especiais (dunder methods)](aula-04-metodos-especiais-dunder/aula.md)
+5. [Composição vs. herança](aula-05-composicao-vs-heranca/aula.md)
 
 ⬅️ [Módulo anterior: Funções e modularização](../modulo-03-funcoes-e-modularizacao/README.md) | [Índice do curso](../README.md) | ➡️ [Próximo módulo: Tratamento de erros e arquivos](../modulo-05-tratamento-de-erros-e-arquivos/README.md)

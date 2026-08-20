@@ -41,8 +41,8 @@ Cada aula é uma pasta com três arquivos:
 | [01 — Fundamentos](modulo-01-fundamentos/README.md) | Ambiente, variáveis, controle de fluxo, strings, boas práticas | ✅ completo |
 | [02 — Estruturas de dados](modulo-02-estruturas-de-dados/README.md) | Listas, tuplas, dicionários, sets, comprehensions | ✅ completo |
 | [03 — Funções e modularização](modulo-03-funcoes-e-modularizacao/README.md) | Funções, escopo, `*args`/`**kwargs`, módulos, ambientes virtuais | ✅ completo |
-| [04 — Programação Orientada a Objetos](modulo-04-poo/README.md) | Classes, herança, encapsulamento, métodos dunder | 🚧 em construção |
-| [05 — Tratamento de erros e arquivos](modulo-05-tratamento-de-erros-e-arquivos/README.md) | Exceções, arquivos texto/CSV, JSON | 🚧 em construção |
+| [04 — Programação Orientada a Objetos](modulo-04-poo/README.md) | Classes, herança, encapsulamento, métodos dunder | ✅ completo |
+| [05 — Tratamento de erros e arquivos](modulo-05-tratamento-de-erros-e-arquivos/README.md) | Exceções, arquivos texto/CSV, JSON | ✅ completo |
 | [06 — Testes e qualidade](modulo-06-testes-e-qualidade/README.md) | pytest, fixtures/mocks, cobertura, typing | 🚧 em construção |
 | [07 — Biblioteca padrão útil](modulo-07-biblioteca-padrao-util/README.md) | datetime, collections/itertools, pathlib, logging | 🚧 em construção |
 | [08 — Web e APIs](modulo-08-web-e-apis/README.md) | HTTP/REST, Flask, FastAPI, persistência | 🚧 em construção |
