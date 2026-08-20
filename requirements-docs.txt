@@ -1,0 +1,6 @@
+# Dependências para gerar o site do curso (MkDocs) -- não são necessárias
+# para fazer o curso em si, só para quem quer rodar/publicar o site.
+# Instale com: pip install -r requirements-docs.txt
+mkdocs
+mkdocs-material
+mkdocs-jupyter

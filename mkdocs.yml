@@ -1,0 +1,227 @@
+site_name: Curso de Python
+site_description: Curso completo de Python em português — do zero a desenvolvedor backend/geral.
+site_url: https://alexsilvaa1977.github.io/curso_Python/
+repo_url: https://github.com/alexsilvaa1977/curso_Python
+repo_name: alexsilvaa1977/curso_Python
+edit_uri: edit/main/
+
+docs_dir: _docs
+site_dir: site
+
+exclude_docs: |
+  __pycache__/
+  .pytest_cache/
+  .mypy_cache/
+  .ipynb_checkpoints/
+  *.pyc
+  *.db
+  *.sqlite3
+  financas.json
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.details
+
+plugins:
+  - search
+  - mkdocs-jupyter:
+      execute: false
+      include_source: true
+      include: ["*.ipynb"]
+
+nav:
+  - Início: README.md
+  - "Módulo 1 — Fundamentos":
+      - modulo-01-fundamentos/README.md
+      - "Aula 1 — Introdução e ambiente":
+          - modulo-01-fundamentos/aula-01-introducao-e-ambiente/aula.md
+          - modulo-01-fundamentos/aula-01-introducao-e-ambiente/exemplos.ipynb
+          - modulo-01-fundamentos/aula-01-introducao-e-ambiente/exercicios.md
+      - "Aula 2 — Variáveis, tipos e operadores":
+          - modulo-01-fundamentos/aula-02-variaveis-tipos-e-operadores/aula.md
+          - modulo-01-fundamentos/aula-02-variaveis-tipos-e-operadores/exemplos.ipynb
+          - modulo-01-fundamentos/aula-02-variaveis-tipos-e-operadores/exercicios.md
+      - "Aula 3 — Estruturas de controle":
+          - modulo-01-fundamentos/aula-03-estruturas-de-controle/aula.md
+          - modulo-01-fundamentos/aula-03-estruturas-de-controle/exemplos.ipynb
+          - modulo-01-fundamentos/aula-03-estruturas-de-controle/exercicios.md
+      - "Aula 4 — Strings e formatação":
+          - modulo-01-fundamentos/aula-04-strings-e-formatacao/aula.md
+          - modulo-01-fundamentos/aula-04-strings-e-formatacao/exemplos.ipynb
+          - modulo-01-fundamentos/aula-04-strings-e-formatacao/exercicios.md
+      - "Aula 5 — PEP 8 e git básico":
+          - modulo-01-fundamentos/aula-05-boas-praticas-pep8-e-git-basico/aula.md
+          - modulo-01-fundamentos/aula-05-boas-praticas-pep8-e-git-basico/exemplos.ipynb
+          - modulo-01-fundamentos/aula-05-boas-praticas-pep8-e-git-basico/exercicios.md
+  - "Módulo 2 — Estruturas de dados":
+      - modulo-02-estruturas-de-dados/README.md
+      - "Aula 1 — Listas e tuplas":
+          - modulo-02-estruturas-de-dados/aula-01-listas-e-tuplas/aula.md
+          - modulo-02-estruturas-de-dados/aula-01-listas-e-tuplas/exemplos.ipynb
+          - modulo-02-estruturas-de-dados/aula-01-listas-e-tuplas/exercicios.md
+      - "Aula 2 — Dicionários e sets":
+          - modulo-02-estruturas-de-dados/aula-02-dicionarios-e-sets/aula.md
+          - modulo-02-estruturas-de-dados/aula-02-dicionarios-e-sets/exemplos.ipynb
+          - modulo-02-estruturas-de-dados/aula-02-dicionarios-e-sets/exercicios.md
+      - "Aula 3 — Comprehensions":
+          - modulo-02-estruturas-de-dados/aula-03-compreensoes-comprehensions/aula.md
+          - modulo-02-estruturas-de-dados/aula-03-compreensoes-comprehensions/exemplos.ipynb
+          - modulo-02-estruturas-de-dados/aula-03-compreensoes-comprehensions/exercicios.md
+      - "Aula 4 — Manipulação avançada e desempenho":
+          - modulo-02-estruturas-de-dados/aula-04-manipulacao-avancada-e-desempenho/aula.md
+          - modulo-02-estruturas-de-dados/aula-04-manipulacao-avancada-e-desempenho/exemplos.ipynb
+          - modulo-02-estruturas-de-dados/aula-04-manipulacao-avancada-e-desempenho/exercicios.md
+  - "Módulo 3 — Funções e modularização":
+      - modulo-03-funcoes-e-modularizacao/README.md
+      - "Aula 1 — Funções, parâmetros e retorno":
+          - modulo-03-funcoes-e-modularizacao/aula-01-funcoes-parametros-e-retorno/aula.md
+          - modulo-03-funcoes-e-modularizacao/aula-01-funcoes-parametros-e-retorno/exemplos.ipynb
+          - modulo-03-funcoes-e-modularizacao/aula-01-funcoes-parametros-e-retorno/exercicios.md
+      - "Aula 2 — Escopo, args/kwargs e lambdas":
+          - modulo-03-funcoes-e-modularizacao/aula-02-escopo-args-kwargs-e-lambdas/aula.md
+          - modulo-03-funcoes-e-modularizacao/aula-02-escopo-args-kwargs-e-lambdas/exemplos.ipynb
+          - modulo-03-funcoes-e-modularizacao/aula-02-escopo-args-kwargs-e-lambdas/exercicios.md
+      - "Aula 3 — Módulos e pacotes":
+          - modulo-03-funcoes-e-modularizacao/aula-03-modulos-e-pacotes/aula.md
+          - modulo-03-funcoes-e-modularizacao/aula-03-modulos-e-pacotes/exemplos.ipynb
+          - modulo-03-funcoes-e-modularizacao/aula-03-modulos-e-pacotes/exercicios.md
+      - "Aula 4 — Ambientes virtuais e dependências":
+          - modulo-03-funcoes-e-modularizacao/aula-04-ambientes-virtuais-e-gerenciamento-de-dependencias/aula.md
+          - modulo-03-funcoes-e-modularizacao/aula-04-ambientes-virtuais-e-gerenciamento-de-dependencias/exemplos.ipynb
+          - modulo-03-funcoes-e-modularizacao/aula-04-ambientes-virtuais-e-gerenciamento-de-dependencias/exercicios.md
+  - "Módulo 4 — POO":
+      - modulo-04-poo/README.md
+      - "Aula 1 — Classes, objetos e atributos":
+          - modulo-04-poo/aula-01-classes-objetos-e-atributos/aula.md
+          - modulo-04-poo/aula-01-classes-objetos-e-atributos/exemplos.ipynb
+          - modulo-04-poo/aula-01-classes-objetos-e-atributos/exercicios.md
+      - "Aula 2 — Herança e polimorfismo":
+          - modulo-04-poo/aula-02-heranca-e-polimorfismo/aula.md
+          - modulo-04-poo/aula-02-heranca-e-polimorfismo/exemplos.ipynb
+          - modulo-04-poo/aula-02-heranca-e-polimorfismo/exercicios.md
+      - "Aula 3 — Encapsulamento e properties":
+          - modulo-04-poo/aula-03-encapsulamento-e-properties/aula.md
+          - modulo-04-poo/aula-03-encapsulamento-e-properties/exemplos.ipynb
+          - modulo-04-poo/aula-03-encapsulamento-e-properties/exercicios.md
+      - "Aula 4 — Métodos especiais (dunder)":
+          - modulo-04-poo/aula-04-metodos-especiais-dunder/aula.md
+          - modulo-04-poo/aula-04-metodos-especiais-dunder/exemplos.ipynb
+          - modulo-04-poo/aula-04-metodos-especiais-dunder/exercicios.md
+      - "Aula 5 — Composição vs. herança":
+          - modulo-04-poo/aula-05-composicao-vs-heranca/aula.md
+          - modulo-04-poo/aula-05-composicao-vs-heranca/exemplos.ipynb
+          - modulo-04-poo/aula-05-composicao-vs-heranca/exercicios.md
+  - "Módulo 5 — Erros e arquivos":
+      - modulo-05-tratamento-de-erros-e-arquivos/README.md
+      - "Aula 1 — try/except/finally":
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-01-excecoes-try-except-finally/aula.md
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-01-excecoes-try-except-finally/exemplos.ipynb
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-01-excecoes-try-except-finally/exercicios.md
+      - "Aula 2 — Exceções customizadas":
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-02-excecoes-customizadas/aula.md
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-02-excecoes-customizadas/exemplos.ipynb
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-02-excecoes-customizadas/exercicios.md
+      - "Aula 3 — Arquivos texto e CSV":
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-03-manipulacao-de-arquivos-texto-e-csv/aula.md
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-03-manipulacao-de-arquivos-texto-e-csv/exemplos.ipynb
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-03-manipulacao-de-arquivos-texto-e-csv/exercicios.md
+      - "Aula 4 — JSON e pickle":
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-04-serializacao-json-e-pickle/aula.md
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-04-serializacao-json-e-pickle/exemplos.ipynb
+          - modulo-05-tratamento-de-erros-e-arquivos/aula-04-serializacao-json-e-pickle/exercicios.md
+  - "Módulo 6 — Testes e qualidade":
+      - modulo-06-testes-e-qualidade/README.md
+      - "Aula 1 — Introdução a testes com pytest":
+          - modulo-06-testes-e-qualidade/aula-01-introducao-a-testes-pytest/aula.md
+          - modulo-06-testes-e-qualidade/aula-01-introducao-a-testes-pytest/exemplos.ipynb
+          - modulo-06-testes-e-qualidade/aula-01-introducao-a-testes-pytest/exercicios.md
+      - "Aula 2 — Fixtures e mocks":
+          - modulo-06-testes-e-qualidade/aula-02-fixtures-e-mocks/aula.md
+          - modulo-06-testes-e-qualidade/aula-02-fixtures-e-mocks/exemplos.ipynb
+          - modulo-06-testes-e-qualidade/aula-02-fixtures-e-mocks/exercicios.md
+      - "Aula 3 — Cobertura e integração contínua":
+          - modulo-06-testes-e-qualidade/aula-03-cobertura-e-integracao-continua/aula.md
+          - modulo-06-testes-e-qualidade/aula-03-cobertura-e-integracao-continua/exemplos.ipynb
+          - modulo-06-testes-e-qualidade/aula-03-cobertura-e-integracao-continua/exercicios.md
+      - "Aula 4 — typing e mypy":
+          - modulo-06-testes-e-qualidade/aula-04-tipagem-estatica-typing-e-mypy/aula.md
+          - modulo-06-testes-e-qualidade/aula-04-tipagem-estatica-typing-e-mypy/exemplos.ipynb
+          - modulo-06-testes-e-qualidade/aula-04-tipagem-estatica-typing-e-mypy/exercicios.md
+  - "Módulo 7 — Biblioteca padrão útil":
+      - modulo-07-biblioteca-padrao-util/README.md
+      - "Aula 1 — datetime e manipulação de tempo":
+          - modulo-07-biblioteca-padrao-util/aula-01-datetime-e-manipulacao-de-tempo/aula.md
+          - modulo-07-biblioteca-padrao-util/aula-01-datetime-e-manipulacao-de-tempo/exemplos.ipynb
+          - modulo-07-biblioteca-padrao-util/aula-01-datetime-e-manipulacao-de-tempo/exercicios.md
+      - "Aula 2 — collections, itertools e functools":
+          - modulo-07-biblioteca-padrao-util/aula-02-collections-itertools-e-functools/aula.md
+          - modulo-07-biblioteca-padrao-util/aula-02-collections-itertools-e-functools/exemplos.ipynb
+          - modulo-07-biblioteca-padrao-util/aula-02-collections-itertools-e-functools/exercicios.md
+      - "Aula 3 — os, pathlib e sistema de arquivos":
+          - modulo-07-biblioteca-padrao-util/aula-03-os-pathlib-e-sistema-de-arquivos/aula.md
+          - modulo-07-biblioteca-padrao-util/aula-03-os-pathlib-e-sistema-de-arquivos/exemplos.ipynb
+          - modulo-07-biblioteca-padrao-util/aula-03-os-pathlib-e-sistema-de-arquivos/exercicios.md
+      - "Aula 4 — logging e debugging":
+          - modulo-07-biblioteca-padrao-util/aula-04-logging-e-debugging/aula.md
+          - modulo-07-biblioteca-padrao-util/aula-04-logging-e-debugging/exemplos.ipynb
+          - modulo-07-biblioteca-padrao-util/aula-04-logging-e-debugging/exercicios.md
+  - "Módulo 8 — Web e APIs":
+      - modulo-08-web-e-apis/README.md
+      - "Aula 1 — Fundamentos de HTTP e REST":
+          - modulo-08-web-e-apis/aula-01-fundamentos-http-e-rest/aula.md
+          - modulo-08-web-e-apis/aula-01-fundamentos-http-e-rest/exemplos.ipynb
+          - modulo-08-web-e-apis/aula-01-fundamentos-http-e-rest/exercicios.md
+      - "Aula 2 — Introdução ao Flask":
+          - modulo-08-web-e-apis/aula-02-introducao-ao-flask/aula.md
+          - modulo-08-web-e-apis/aula-02-introducao-ao-flask/exemplos.ipynb
+          - modulo-08-web-e-apis/aula-02-introducao-ao-flask/exercicios.md
+      - "Aula 3 — Introdução ao FastAPI":
+          - modulo-08-web-e-apis/aula-03-introducao-ao-fastapi/aula.md
+          - modulo-08-web-e-apis/aula-03-introducao-ao-fastapi/exemplos.ipynb
+          - modulo-08-web-e-apis/aula-03-introducao-ao-fastapi/exercicios.md
+      - "Aula 4 — Persistência: SQLite e ORM":
+          - modulo-08-web-e-apis/aula-04-persistencia-com-banco-de-dados-sqlite-orm/aula.md
+          - modulo-08-web-e-apis/aula-04-persistencia-com-banco-de-dados-sqlite-orm/exemplos.ipynb
+          - modulo-08-web-e-apis/aula-04-persistencia-com-banco-de-dados-sqlite-orm/exercicios.md
+  - "Módulo 9 — Projeto final":
+      - modulo-09-projeto-final/README.md
+      - "Projeto A — API de Tarefas": modulo-09-projeto-final/projeto-api-tarefas/README.md
+      - "Projeto B — CLI de Finanças": modulo-09-projeto-final/projeto-cli-financas/README.md

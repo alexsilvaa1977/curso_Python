@@ -1,0 +1,16 @@
+[tool.black]
+line-length = 88
+target-version = ["py311"]
+
+[tool.pytest.ini_options]
+testpaths = ["modulo-09-projeto-final"]
+python_files = ["test_*.py"]
+addopts = "--import-mode=importlib"
+pythonpath = [
+  "modulo-09-projeto-final/projeto-api-tarefas",
+  "modulo-09-projeto-final/projeto-cli-financas",
+]
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true
