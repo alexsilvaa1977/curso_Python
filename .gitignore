@@ -1,0 +1,35 @@
+# Bytecode e cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testes e cobertura
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+
+# Empacotamento
+build/
+dist/
+*.egg-info/
+
+# Editores e SO
+.vscode/
+.idea/
+.DS_Store
+
+# Rascunhos pessoais do aluno (opcional, não versionados)
+meus-exercicios/
+scratch/

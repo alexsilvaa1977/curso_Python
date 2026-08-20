@@ -1,0 +1,18 @@
+# Ambiente de execução das aulas (notebooks)
+jupyter
+ipykernel
+notebook
+
+# Testes e qualidade de código
+pytest
+pytest-cov
+black
+flake8
+mypy
+
+# Usados a partir dos módulos de rede/web (módulo 8)
+requests
+flask
+fastapi
+uvicorn[standard]
+sqlalchemy
